@@ -1361,4 +1361,13 @@ body {
   height: 200px;
 }
 }
+.list-inline-item{
+  font-size: 3rem;  
+}
+[data-aos^=fade][data-aos^=fade].aos-animate
+{
+opacity:1;
+
+transform:translate(0)
+}
 
