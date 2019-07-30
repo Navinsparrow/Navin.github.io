@@ -868,7 +868,7 @@ body:after {
 .progress {
   overflow: visible;
   margin-bottom: 26px;
-  height: 4px; }
+  height: 16px; }
   .progress .progress-bar {
     background-color: #fab95b;
     position: relative;
@@ -1370,4 +1370,3 @@ opacity:1;
 
 transform:translate(0)
 }
-
