@@ -1364,6 +1364,7 @@ body {
 .list-inline-item{
   font-size: 2rem;  
 }
+
 [data-aos^=fade][data-aos^=fade].aos-animate
 {
 opacity:1;
